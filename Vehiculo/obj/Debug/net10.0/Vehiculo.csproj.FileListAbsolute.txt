@@ -1,0 +1,15 @@
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\bin\Debug\net10.0\Vehiculo.exe
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\bin\Debug\net10.0\Vehiculo.deps.json
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\bin\Debug\net10.0\Vehiculo.runtimeconfig.json
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\bin\Debug\net10.0\Vehiculo.dll
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\bin\Debug\net10.0\Vehiculo.pdb
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\Vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\Vehiculo.AssemblyInfoInputs.cache
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\Vehiculo.AssemblyInfo.cs
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\Vehiculo.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\Vehiculo.sourcelink.json
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\Vehiculo.dll
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\refint\Vehiculo.dll
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\Vehiculo.pdb
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\Vehiculo.genruntimeconfig.cache
+D:\Biblioteca\Downloads\p_Vehiculo\vehiculo\obj\Debug\net10.0\ref\Vehiculo.dll
